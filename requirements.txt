@@ -1,0 +1,23 @@
+# Orchestration & State
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-groq
+langchain-community
+pydantic
+tenacity
+python-dotenv
+nest-asyncio
+
+# Data & Math
+yfinance
+numpy
+pandas
+aiosqlite
+
+# UI & Deployment
+streamlit
+fastapi
+uvicorn
+httpx
+duckduckgo-search
