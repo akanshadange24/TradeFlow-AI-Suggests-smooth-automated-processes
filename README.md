@@ -64,6 +64,6 @@ Add your `GROQ_API_KEY` to your deployment settings.
 
 ### Pro-Tips for your README:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradeflow-ai-suggests-smooth-automated-processes.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](tradeflow-ai-suggests-smooth-automated-processes ∙ main ∙ app.py)
 * **The "Trace" Link:** If you use LangSmith, add a link titled "View Execution Trace" so recruiters can click to see the agents in action.
 
