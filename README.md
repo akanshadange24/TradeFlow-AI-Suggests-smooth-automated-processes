@@ -2,8 +2,8 @@
 
 ### 🔗 Project Links
 
-* **[Live Trading Terminal](https://tradeflow-ai-suggests-smooth-automated-processes.streamlit.app/)**
-* **[View Execution Trace](https://smith.langchain.com/public/1d01ffd0-42c8-4724-88ff-5a940a8be30e/r)**
+* **[Live Trading Terminal]([https://tradeflow-ai-suggests-smooth-automated-processes.streamlit.app/](https://tradeflow-ai-suggests-smooth-automated-processes-tufczhjjlkrsn.streamlit.app/))**
+* **[View Execution Trace]([https://smith.langchain.com/public/1d01ffd0-42c8-4724-88ff-5a940a8be30e/r](https://smith.langchain.com/public/4a6997ab-610f-4494-83a3-fdcfed5d3390/r))**
 
 A modular, event-driven trading framework built using LangGraph...
 
