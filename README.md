@@ -1,4 +1,4 @@
-# TradeFlow-AI: Multi-Agent Trading Terminal
+# Autonomous Agentic Trading System
 
 ### 🔗 Project Links
 
@@ -6,10 +6,6 @@
 * **[View Langsmith Trace](https://smith.langchain.com/public/4a6997ab-610f-4494-83a3-fdcfed5d3390/r)**
 
 A modular, event-driven trading framework built using LangGraph...
-
-# Autonomous Agentic Trading System
-
-An intelligent, stateful, multi-agent framework designed to perform quantitative market analysis and provide actionable trading recommendations with a human-in-the-loop validation layer.
 
 ## 🏗️ System Architecture
 
