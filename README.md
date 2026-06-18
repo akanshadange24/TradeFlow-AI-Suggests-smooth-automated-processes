@@ -1,4 +1,9 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tradeflow-ai-suggests-smooth-automated-processes.streamlit.app/)
+# TradeFlow-AI: Multi-Agent Trading Terminal
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://tradeflow-ai-link.streamlit.app)
+[![Execution Trace](https://img.shields.io/badge/LangSmith-Trace-blue)](YOUR_PUBLIC_TRACE_URL)
+
+A modular, event-driven trading framework built using LangGraph...
 
 # Autonomous Agentic Trading System
 
@@ -59,13 +64,7 @@ Add your `GROQ_API_KEY` to your deployment settings.
 ## 📈 Future Roadmap
 
 * [ ] Migrate from SQLite to PostgreSQL for distributed state persistence.
-* [ ] Integrate LangSmith for full-stack execution tracing and latency monitoring.
 * [ ] Add support for multi-asset portfolio rebalancing.
 
 ---
-
-### Pro-Tips for your README:
-
-
-* **The "Trace" Link:** If you use LangSmith, add a link titled "View Execution Trace" so recruiters can click to see the agents in action.
 
