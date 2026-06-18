@@ -1,7 +1,7 @@
 # TradeFlow-AI: Multi-Agent Trading Terminal
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://tradeflow-ai-link.streamlit.app)
-[![Execution Trace](https://img.shields.io/badge/LangSmith-Trace-blue)](YOUR_PUBLIC_TRACE_URL)
+[![Execution Trace](https://img.shields.io/badge/LangSmith-Trace-blue)][https://smith.langchain.com/public/1d01ffd0-42c8-4724-88ff-5a940a8be30e/r]
 
 A modular, event-driven trading framework built using LangGraph...
 
